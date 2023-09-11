@@ -1,8 +1,7 @@
-# SmartCoCo of ASE‘23#874 
+# SmartCoCo
 ## SmartCoCo: Checking Comment-code Inconsistency in Smart Contracts via Constraint Propagation and Binding
 
-**Thanks for your review.**
-Attachments for ASE#874 SmartCoCo: Checking Comment-code Inconsistency in Smart Contracts via Constraint Propagation and Binding.
+The ASE'23 version can be seen from the repo forked or in the paper.
 
 ## Prototype 
 **In the folder `SmartCoCo`.**
